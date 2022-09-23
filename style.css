@@ -1,0 +1,113 @@
+header {
+    margin-bottom: 100px;
+}
+
+.menu-list {
+    float: left;
+    background-color: black;
+    width: 98%;
+    color: white;
+}
+
+.menu-list li{
+    float: left;
+    margin: 10px 10px 10px 20px;
+}
+
+header img {
+    width: 15%;
+}
+
+main {
+    width: 100%;
+}
+
+.left {
+    float: left;
+    height: 1000px;
+    width: 70%;
+}
+
+.left h1 {
+    border-left: 5px solid black;
+    border-bottom: 2px solid black;
+    padding-left: 10px;
+}
+
+.right {
+    float: right;
+    width: 30%;
+    height: 1000px;
+    
+}
+
+form {
+    float: left;
+    margin: 0 auto;
+    background-color: lightgray;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 100%;
+}
+
+form h2 {
+    margin-left: 50px;
+    border-left: 5px solid red;
+}
+
+form div {
+    padding: 15px;
+}
+
+.text, textarea, .dropdown {
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background-color: #fff;
+}
+
+.submit {
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+.right h2 {
+    border-bottom: 1px solid black;
+    margin-left: 10px;
+}
+
+.right p {
+    margin-left: 30px;
+}
+
+.article {
+    float: left;
+    background-color: #dfdfdf;
+    border: 3px #ebebeb solid;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.article h3 {
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.content {
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+footer {
+    height: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 1100px;
+}
